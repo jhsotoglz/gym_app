@@ -15,7 +15,7 @@ const HeroBanner = () => {
         <Typography fontSize={'22px'} lineHeight={'35px'} mb={4}>
             Build your own weekly split
         </Typography>
-        <Button variant="contained" color='success' href="#exercises" sx={{backgroundColor: '3F704D', padding: '10px'}}>
+        <Button variant="contained" color='success' href="#exercises" sx={{backgroundColor: '#3F704D', padding: '10px'}}>
             Explore Exercises
         </Button>
         <Typography
